@@ -1,0 +1,13 @@
+Source: ioncube-loader64
+Section: web
+Priority: extra
+Maintainer: Walter Kleynscheldt - Hetzner ZA <walter.kleynscheldt@hetzner.co.za>
+Build-Depends: debhelper (>= 8.0.0), chrpath
+Standards-Version: 3.9.3
+Homepage: http://www.ioncube.com
+
+Package: ioncube-loader64
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}, php5-common (>= 5.2.6)
+Description: Loader for Ioncube encode files
+ Loaders for ionCube Encoded files.
