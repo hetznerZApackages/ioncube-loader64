@@ -1,3 +1,9 @@
+ioncube-loader64 (5.0.18+hetz1~exp1) jessie-hetz-experimental; urgency=low
+
+  * Merge upstream version for Jessie
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 13:14:14 +0200
+
 ioncube-loader64 (4.7.4+hetz1) wheezy-hetz; urgency=low
 
   * Released 4.7.4+hetz1~exp1 as 4.7.4+hetz1
