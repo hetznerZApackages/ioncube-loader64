@@ -8,6 +8,6 @@ Homepage: http://www.ioncube.com
 
 Package: ioncube-loader64
 Architecture: amd64
-Depends: ${shlibs:Depends}, ${misc:Depends}, php5-common (>= 5.2.6)
+Depends: ${shlibs:Depends}, ${misc:Depends}, php5-common (>= 5.6.0)
 Description: Loader for Ioncube encode files
  Loaders for ionCube Encoded files.
