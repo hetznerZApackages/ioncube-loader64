@@ -1,3 +1,9 @@
+ioncube-loader64 (5.0.18-1+hetz3~exp1) jessie-hetz-experimental; urgency=low
+
+  * Ensure we correctly create symlinks 
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Mon, 16 Nov 2015 15:07:36 +0200
+
 ioncube-loader64 (5.0.18-1+hetz2) jessie-hetz; urgency=low
 
   * Released 5.0.18-1+hetz2~exp1 as 5.0.18-1+hetz2

@@ -62,7 +62,7 @@ binary-arch: build install
 #	dh_installcron
 #	dh_installinfo
 	dh_installman
-	dh_link usr/lib/php56/20131226/ioncube_loader_lin_5.6.so usr/lib/php56/20131226/ioncube_loader_lin.so
+	dh_link usr/lib/php5/20131226/ioncube_loader_lin_5.6.so usr/lib/php5/20131226/ioncube_loader_lin.so
 	dh_strip
 	dh_compress
 	dh_fixperms
