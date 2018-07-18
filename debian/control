@@ -1,13 +1,13 @@
-Source: php7.0-modules
+Source: ioncube-loader64
 Section: web
 Priority: extra
-Maintainer: Shaun Bugler - Hetzner ZA <sb@hetzner.co.za>
+Maintainer: Geoff Robertson - Hetzner ZA <gr@hetzner.co.za>
 Build-Depends: debhelper (>= 9.0.0)
 Standards-Version: 3.9.3
 Homepage: http://www.ioncube.com
 
-Package: php7.0-modules
+Package: ioncube-loader64
 Architecture: amd64
 Depends: ${misc:Depends}, php7.0-common
 Description: PHP modules used by Hetzner
-  ioncube and htscanner for php7
+  ioncube loader
