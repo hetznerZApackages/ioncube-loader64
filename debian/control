@@ -1,13 +1,13 @@
-Source: ioncube-loader64
+Source: php7.0-modules
 Section: web
 Priority: extra
-Maintainer: Walter Kleynscheldt - Hetzner ZA <walter.kleynscheldt@hetzner.co.za>
-Build-Depends: debhelper (>= 8.0.0), chrpath
+Maintainer: Shaun Bugler - Hetzner ZA <sb@hetzner.co.za>
+Build-Depends: debhelper (>= 9.0.0)
 Standards-Version: 3.9.3
 Homepage: http://www.ioncube.com
 
-Package: ioncube-loader64
+Package: php7.0-modules
 Architecture: amd64
-Depends: ${shlibs:Depends}, ${misc:Depends}, php5-common (>= 5.6.0)
-Description: Loader for Ioncube encode files
- Loaders for ionCube Encoded files.
+Depends: ${misc:Depends}, php7.0-common
+Description: PHP modules used by Hetzner
+  ioncube and htscanner for php7

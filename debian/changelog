@@ -1,3 +1,9 @@
+ioncube-loader64 (7.0.0-1+hetz1~exp1) jessie-hetz-experimental; urgency=low
+
+  * Building for all PHP versions from 5.6 to 7.2
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:15:40 +0200
+
 ioncube-loader64 (5.0.18-1+hetz4~exp1) jessie-hetz-experimental; urgency=low
 
   * Test build 

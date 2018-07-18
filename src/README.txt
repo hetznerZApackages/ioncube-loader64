@@ -58,5 +58,4 @@ Installing to a remote WINDOWS DEDICATED or VPS server
      http://yourdomain/loader-wizard.php
 
 
-
-Copyright (c) 2002-2015 ionCube Ltd                Last revised 23-April-2015
+Copyright (c) 2002-2017 ionCube Ltd                Last revised 15-September-2016
