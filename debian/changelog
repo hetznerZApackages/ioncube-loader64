@@ -1,3 +1,9 @@
+ioncube-loader64 (7.0.0-1+hetz1~exp16) jessie-hetz-experimental; urgency=low
+
+  * Include the LICENSE.txt 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:28:41 +0200
+
 ioncube-loader64 (7.0.0-1+hetz1~exp15) jessie-hetz-experimental; urgency=low
 
   * Updated upstream with the src dir 
