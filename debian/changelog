@@ -1,3 +1,9 @@
+ioncube-loader64 (7.0.0-1+hetz1~exp3) jessie-hetz-experimental; urgency=low
+
+  * Remove PDF file as it is binary and thus would need special handling 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:22:34 +0200
+
 ioncube-loader64 (7.0.0-1+hetz1~exp2) jessie-hetz-experimental; urgency=low
 
   * Correct control for the package name 
