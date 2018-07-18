@@ -1,8 +1,7 @@
 #!/usr/bin/make -f
 
 override_dh_auto_install:
-	mkdir -p usr/lib/php/ioncube
-	cp src/* usr/lib/php/ioncube/
+	dh_install src/* usr/lib/php/ioncube/
 
 %:
 	dh $@
