@@ -8,6 +8,6 @@ Homepage: http://www.ioncube.com
 
 Package: ioncube-loader64
 Architecture: amd64
-Depends: ${misc:Depends}, php7.0-common
+Depends: ${misc:Depends}, php7.0-common, php7.0-modules (>= 1.1)
 Description: PHP modules used by Hetzner
   ioncube loader

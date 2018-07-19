@@ -1,3 +1,9 @@
+ioncube-loader64 (7.0.0-1+hetz2~exp1) jessie-hetz-experimental; urgency=low
+
+  * Enforce dependency limit 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 19 Jul 2018 15:54:57 +0200
+
 ioncube-loader64 (7.0.0-1+hetz1) jessie-hetz; urgency=low
 
   * Released 7.0.0-1+hetz1~exp18 as 7.0.0-1+hetz1
