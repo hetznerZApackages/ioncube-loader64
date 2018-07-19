@@ -1,3 +1,9 @@
+ioncube-loader64 (7.0.0-1+hetz1) jessie-hetz; urgency=low
+
+  * Released 7.0.0-1+hetz1~exp18 as 7.0.0-1+hetz1
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 19 Jul 2018 13:20:29 +0200
+
 ioncube-loader64 (7.0.0-1+hetz1~exp18) jessie-hetz-experimental; urgency=low
 
   * Correct the symlinkage for php5 
