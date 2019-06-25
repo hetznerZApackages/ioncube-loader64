@@ -1,3 +1,201 @@
+ioncube-loader64 (7.0.0-1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=low
+
+  * Initial Stretch version
+
+ -- Willem Basson <willem.basson@hetzner.co.za>  Tue, 25 Jun 2019 10:06:39 +0200
+
+ioncube-loader64 (7.0.0-1+hetz2) jessie-hetz; urgency=low
+
+  * Released 7.0.0-1+hetz2~exp1 as 7.0.0-1+hetz2
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 19 Jul 2018 16:03:08 +0200
+
+ioncube-loader64 (7.0.0-1+hetz2~exp1) jessie-hetz-experimental; urgency=low
+
+  * Enforce dependency limit 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 19 Jul 2018 15:54:57 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1) jessie-hetz; urgency=low
+
+  * Released 7.0.0-1+hetz1~exp18 as 7.0.0-1+hetz1
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 19 Jul 2018 13:20:29 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp18) jessie-hetz-experimental; urgency=low
+
+  * Correct the symlinkage for php5 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:51:27 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp17) jessie-hetz-experimental; urgency=low
+
+  * Updated upstream with required files 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:30:30 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp16) jessie-hetz-experimental; urgency=low
+
+  * Include the LICENSE.txt 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:28:41 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp15) jessie-hetz-experimental; urgency=low
+
+  * Updated upstream with the src dir 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:25:26 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp14) jessie-hetz-experimental; urgency=low
+
+  * Try other order 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:09:09 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp13) jessie-hetz-experimental; urgency=low
+
+  * Experimental steps 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 15:00:21 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp12) jessie-hetz-experimental; urgency=low
+
+  * Test build 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:51:38 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp11) jessie-hetz-experimental; urgency=low
+
+  * Test build 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:49:29 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp10) jessie-hetz-experimental; urgency=low
+
+  * Version clash 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:46:53 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp9) jessie-hetz-experimental; urgency=low
+
+  * Test going back to src 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:45:53 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp8) jessie-hetz-experimental; urgency=low
+
+  * Test build 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:42:39 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp7) jessie-hetz-experimental; urgency=low
+
+  * Test build 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:38:45 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp6) jessie-hetz-experimental; urgency=low
+
+  * Try to simplify the whole structure by using full paths 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:32:54 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp5) jessie-hetz-experimental; urgency=low
+
+  * Correct install 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:28:52 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp4) jessie-hetz-experimental; urgency=low
+
+  * Cleaning up 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:24:38 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp3) jessie-hetz-experimental; urgency=low
+
+  * Remove PDF file as it is binary and thus would need special handling 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:22:34 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp2) jessie-hetz-experimental; urgency=low
+
+  * Correct control for the package name 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:20:21 +0200
+
+ioncube-loader64 (7.0.0-1+hetz1~exp1) jessie-hetz-experimental; urgency=low
+
+  * Building for all PHP versions from 5.6 to 7.2
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:15:40 +0200
+
+ioncube-loader64 (5.0.18-1+hetz4~exp1) jessie-hetz-experimental; urgency=low
+
+  * Test build 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 19 Apr 2016 15:41:10 +0200
+
+ioncube-loader64 (5.0.18-1+hetz3) jessie-hetz; urgency=low
+
+  * Released 5.0.18-1+hetz3~exp1 as 5.0.18-1+hetz3
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Mon, 16 Nov 2015 15:12:12 +0200
+
+ioncube-loader64 (5.0.18-1+hetz3~exp1) jessie-hetz-experimental; urgency=low
+
+  * Ensure we correctly create symlinks 
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Mon, 16 Nov 2015 15:07:36 +0200
+
+ioncube-loader64 (5.0.18-1+hetz2) jessie-hetz; urgency=low
+
+  * Released 5.0.18-1+hetz2~exp1 as 5.0.18-1+hetz2
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Mon, 16 Nov 2015 13:57:41 +0200
+
+ioncube-loader64 (5.0.18-1+hetz2~exp1) jessie-hetz-experimental; urgency=low
+
+  * Use php5 and not php56 
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Mon, 16 Nov 2015 13:55:07 +0200
+
+ioncube-loader64 (5.0.18-1+hetz1) jessie-hetz; urgency=low
+
+  * Released 5.0.18-1+hetz1~exp5 as 5.0.18-1+hetz1
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 14:02:19 +0200
+
+ioncube-loader64 (5.0.18-1+hetz1~exp5) jessie-hetz-experimental; urgency=low
+
+  * Final Bump
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 13:48:26 +0200
+
+ioncube-loader64 (5.0.18-1+hetz1~exp4) jessie-hetz-experimental; urgency=low
+
+  * Bump 
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 13:46:46 +0200
+
+ioncube-loader64 (5.0.18-1+hetz1~exp3) jessie-hetz-experimental; urgency=low
+
+  * Bump
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 13:44:38 +0200
+
+ioncube-loader64 (5.0.18+hetz1~exp2) jessie-hetz-experimental; urgency=low
+
+  * Bump 
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 13:24:19 +0200
+
+ioncube-loader64 (5.0.18+hetz1~exp1) jessie-hetz-experimental; urgency=low
+
+  * Merge upstream version for Jessie
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Tue, 22 Sep 2015 13:14:14 +0200
+
 ioncube-loader64 (4.7.4+hetz1) wheezy-hetz; urgency=low
 
   * Released 4.7.4+hetz1~exp1 as 4.7.4+hetz1
