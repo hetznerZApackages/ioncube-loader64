@@ -1,3 +1,9 @@
+ioncube-loader64 (7.0.0-1+deb9hetz3) stretch-hetz; urgency=low
+
+  * Released 7.0.0-1+deb9hetz3~exp1 as 7.0.0-1+deb9hetz3
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 18 Jul 2019 14:24:25 +0200
+
 ioncube-loader64 (7.0.0-1+deb9hetz3~exp1) stretch-hetz-experimental; urgency=low
 
   * Correct package name
