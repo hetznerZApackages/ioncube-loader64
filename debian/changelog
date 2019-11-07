@@ -1,8 +1,15 @@
+ioncube-loader64 (7.3.0-1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=low
+
+  * Adding PHP 7.3
+  * Removing PHP 5.6 and 7.0
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 07 Nov 2019 11:38:20 +0200
+
 ioncube-loader64 (7.0.0-1+deb9hetz3) stretch-hetz; urgency=low
 
   * Released 7.0.0-1+deb9hetz3~exp1 as 7.0.0-1+deb9hetz3
 
- -- Geoff Robertson <gr@hetzner.co.za>  Thu, 18 Jul 2019 14:24:25 +0200
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 07 Nov 2019 11:38:20 +0200
 
 ioncube-loader64 (7.0.0-1+deb9hetz3~exp1) stretch-hetz-experimental; urgency=low
 
