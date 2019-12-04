@@ -1,3 +1,9 @@
+ioncube-loader64 (7.3.0-1+deb9hetz1~exp2) stretch-hetz-experimental; urgency=low
+
+  * Re-added PHP 5.6 and 7.0 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 04 Dec 2019 15:19:00 +0200
+
 ioncube-loader64 (7.3.0-1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=low
 
   * Adding PHP 7.3
