@@ -1,3 +1,9 @@
+ioncube-loader64 (10.4.1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=low
+
+  * Bumping version to match upstream 
+
+ -- Geoff Robertson <geoff.robertson@xneelo.com>  Wed, 15 Jul 2020 12:25:26 +0200
+
 ioncube-loader64 (7.3.2-1+deb9hetz1~exp1) stretch-hetz; urgency=low
 
   * Adding PHP 7.4
