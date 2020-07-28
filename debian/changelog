@@ -1,3 +1,9 @@
+ioncube-loader64 (10.4.1-1+deb9hetz1) stretch-hetz; urgency=low
+
+  * Released 10.4.1-1+deb9hetz1~exp2 as 10.4.1-1+deb9hetz1
+
+ -- Geoff Robertson <geoff.robertson@xneelo.com>  Tue, 28 Jul 2020 09:10:27 +0200
+
 ioncube-loader64 (10.4.1-1+deb9hetz1~exp2) stretch-hetz-experimental; urgency=low
 
   * Correcting upstream src files 
